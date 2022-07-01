@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <title>Project</title>
+    </head>
+
+    <body>
+
+        <h1><center>Projeto de SOR</center></h1>
+
+        <h2><center>ETEC DE COTIA</center></h2>
+
+        <h3><center>BEM VINDO AO SISTEMA </center></h3>
+
+        <div>
+            <h2>Estão Abertos os cursos de Redes de Computadores na ETEC de Cotia</h2>
+            <h2>Materias presentes neste curso</h2>
+            <h3>Projeto de Redes:</h3>
+                <p>Projetos com uso de SketchUp e Packet para cabemento Estruturado</p>
+            <h3>Aplicativos Básicos:</h3>
+                <p>Ensino voltado para Excel, fórmulas e códigos</p>
+            <h3>Sistema Operacionais:</h3>
+                <p>Instalação de Maquinas virtuais, Configuração de Servidores</p>
+            <h3>Segurança da Informação:</h3>
+                <p>Parte Teórica sobre mais da segurança na área de Tecnologia</p>
+            <h3>Dispositivos de Redes:</h3>
+                <p>Configuração de Switchs e Roteadores no Packet Tracert</p>
+            <h3>Script de Redes:</h3>
+                <p>Scripts em Shell voltados para desenvolvimento</p>
+            <h3>Inglês Instrumental:</h3>
+                <p>Ensino da lingua inglesa voltada para area de técnico</p>
+            <h3>PTCC:</h3>
+                <p>Preparatório para TCC</p>
+        </div>
+        
+        <div>
+            <center>
+            <img src="http://etecmontemor.com.br/wp-content/uploads/2021/07/topo_cps.png">
+            </center>
+        </div>
+
+
+        <footer>
+
+            <center>
+        
+            <h3>Projeto Desenvolvido por<br>Raphael Mariano<br>Luiz Gustavo<br>Giovana Lucio</h3>
+            
+            </center>
+
+        </footer>
+
+    </body>
+
+
+</html>
